@@ -1,0 +1,22 @@
+.btn-custom{
+width: 170px;
+height: 60px;
+background:linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+border-radius: 8px;
+color: white;
+border: none;
+}
+.nike-bg-info{
+    background-color: #FFF9F4;
+    ;
+}
+.i-card{
+    background-color: #F1F1F1;
+}
+.body{
+    background: #E5E5E5;
+}
+.b-card{
+    background: white;
+
+}
